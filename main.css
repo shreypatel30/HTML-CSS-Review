@@ -16,7 +16,7 @@ body{
 }
 /*=========Slider Section ============*/
 .carousel-item{
-    height: 600px;
+    height: 710px;
 }
 .carousel-image-1{
     background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)), 
@@ -116,7 +116,7 @@ body{
   /*======End of Service Section====*/
   /*=======Products section=======*/
   #products{
-    background:#000;
+    background:#cf2900;
   }
   .product-title{
     color: #fff;
@@ -239,7 +239,7 @@ body{
   right: 30px;
   left: 30px;
   padding: 10px 0;
-  color: #fff;
+  color: #ff1100;
   font-weight: bold;
   cursor: pointer;
 }
@@ -261,7 +261,7 @@ body{
 /* End of Best Seller==*/
 /*Contact us */
 .btn-color{
-  background: #000;
+  background: #cf2900;
   color: #fff;
 }
 
@@ -327,7 +327,7 @@ body{
 }
 /*==Footer===*/
 .footer{
-  background: #000;
+  background: #cf2900;
   color: #fff;
 }
 .fab{
